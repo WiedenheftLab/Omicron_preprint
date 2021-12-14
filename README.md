@@ -1,5 +1,5 @@
 # Omicron
-GISAID IDs of genomes utilized in analysis of Omicron and other SARS-CoV-2 VOC in:
+GISAID IDs (**GISAID_accessions.txt**) of genomes utilized in analysis of Omicron and other SARS-CoV-2 VOC in:
 
 ### *The rise and fall of SARS-CoV-2 variants and the mutational profile of Omicron*
 
